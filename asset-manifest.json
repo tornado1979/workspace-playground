@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-workspaces-playground/static/css/main.a45bd7a1.chunk.css",
-    "main.js": "/react-workspaces-playground/static/js/main.1109c4e4.chunk.js",
-    "main.js.map": "/react-workspaces-playground/static/js/main.1109c4e4.chunk.js.map",
-    "runtime~main.js": "/react-workspaces-playground/static/js/runtime~main.85e163ea.js",
-    "runtime~main.js.map": "/react-workspaces-playground/static/js/runtime~main.85e163ea.js.map",
-    "static/js/2.b7f52e28.chunk.js": "/react-workspaces-playground/static/js/2.b7f52e28.chunk.js",
-    "static/js/2.b7f52e28.chunk.js.map": "/react-workspaces-playground/static/js/2.b7f52e28.chunk.js.map",
-    "index.html": "/react-workspaces-playground/index.html",
-    "precache-manifest.37219a7b721d3fb8fdae9622761048ea.js": "/react-workspaces-playground/precache-manifest.37219a7b721d3fb8fdae9622761048ea.js",
-    "service-worker.js": "/react-workspaces-playground/service-worker.js",
-    "static/css/main.a45bd7a1.chunk.css.map": "/react-workspaces-playground/static/css/main.a45bd7a1.chunk.css.map",
-    "static/media/ReactLogo.svg": "/react-workspaces-playground/static/media/ReactLogo.2c813d88.svg",
-    "static/media/YarnCat.svg": "/react-workspaces-playground/static/media/YarnCat.42730579.svg"
+    "main.css": "/workspace-playground/static/css/main.bc1bfe5c.chunk.css",
+    "main.js": "/workspace-playground/static/js/main.00f33df6.chunk.js",
+    "main.js.map": "/workspace-playground/static/js/main.00f33df6.chunk.js.map",
+    "runtime~main.js": "/workspace-playground/static/js/runtime~main.66aa89c0.js",
+    "runtime~main.js.map": "/workspace-playground/static/js/runtime~main.66aa89c0.js.map",
+    "static/js/2.88a602db.chunk.js": "/workspace-playground/static/js/2.88a602db.chunk.js",
+    "static/js/2.88a602db.chunk.js.map": "/workspace-playground/static/js/2.88a602db.chunk.js.map",
+    "index.html": "/workspace-playground/index.html",
+    "precache-manifest.088cc16318c8ba5397d57ea0c506a3aa.js": "/workspace-playground/precache-manifest.088cc16318c8ba5397d57ea0c506a3aa.js",
+    "service-worker.js": "/workspace-playground/service-worker.js",
+    "static/css/main.bc1bfe5c.chunk.css.map": "/workspace-playground/static/css/main.bc1bfe5c.chunk.css.map",
+    "static/media/ReactLogo.svg": "/workspace-playground/static/media/ReactLogo.2c813d88.svg",
+    "static/media/YarnCat.svg": "/workspace-playground/static/media/YarnCat.42730579.svg"
   }
 }
