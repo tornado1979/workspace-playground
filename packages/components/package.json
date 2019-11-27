@@ -17,9 +17,9 @@
     "enzyme-adapter-react-16": "^1.12.1",
     "prop-types": "^15.6.2",
     "react": "^16.8.6",
+    "react-art": "^16.12.0",
     "react-dom": "^16.8.6",
-    "react-native": "0.59.0-rc.1",
-    "react-art": "^16.12.0"
+    "react-native": "0.59.0-rc.1"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -46,5 +46,6 @@
       }
     }
   },
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "bca4406a2bcc4acce8bbb124a1248d2270bdb9fe"
 }
