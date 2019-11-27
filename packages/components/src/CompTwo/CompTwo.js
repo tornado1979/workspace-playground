@@ -7,7 +7,7 @@ const CompTwo = () => (
 			<span role="img" aria-label="Yarn Logo">
 				🐱
 			</span>{' '}
-			Component Two!!
+			Component 2!!
 		</h3>
 	</div>
 );
