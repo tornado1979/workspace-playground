@@ -3,7 +3,7 @@ import ReactLogo from './ReactLogo.svg';
 import YarnCat from './YarnCat.svg';
 import './App.css';
 
-import {CompOne, CompTwo} from '@project/components';
+import {CompOne, CompTwo, CompThree} from '@project/components';
 
 class App extends Component {
 	render() {
@@ -47,6 +47,7 @@ class App extends Component {
 					<div className="components">
 						<CompOne />
 						<CompTwo />
+						<CompThree />
 					</div>
 				</header>
 			</div>
