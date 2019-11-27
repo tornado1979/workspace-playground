@@ -1,5 +1,6 @@
 {
   "eslint.enable": true,
   "editor.formatOnSave": true,
-  "prettier.eslintIntegration": false
+  "prettier.eslintIntegration": false,
+  "deepscan.enable": true
 }
